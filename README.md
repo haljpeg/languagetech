@@ -20,3 +20,10 @@ Language Technology Substack https://languagetech.substack.com/
 ## Guest posts
 
 [Quantitative Analytics and Data Science](https://languagetech.substack.com/p/quantitative-analytics-and-data-science)
+
+## Guest posts at other substacks
+[The Future of SEO: When Will Google Be Able to Detect AI Content?](https://bowtiedtetra.substack.com/p/when-will-google-be-able-to-detect)
+
+[Musings on Machine Learning Engineering](https://bowtiedraptor.substack.com/p/guest-post-from-bt_hal)
+
+[Building your ML SaaS](https://bowtiedraptor.substack.com/p/building-your-ml-saas-with-bowtiedhal)
