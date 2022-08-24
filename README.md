@@ -11,6 +11,9 @@ Language Technology Substack https://languagetech.substack.com/
 
 [Understanding what language tasks you are solving](https://languagetech.substack.com/p/understanding-what-language-tasks)
 
+[Overview of Stable Diffusion: High-quality and open-source image synthesis from text](https://languagetech.substack.com/p/overview-of-stable-diffusion-high)
+
+
 ## Interviews
 
 [Building technology tools for every language in the world with Felix Laumann](https://languagetech.substack.com/p/building-technology-tools-for-every)
