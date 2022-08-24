@@ -3,6 +3,8 @@ Language Technology Substack https://languagetech.substack.com/
 
 ## Posts
 
+[Overview of Stable Diffusion: High-quality and open-source image synthesis from text](https://languagetech.substack.com/p/overview-of-stable-diffusion-high)
+
 [Parameter-efficient transfer learning for NLP](https://languagetech.substack.com/p/parameter-efficient-transfer-learning)
 
 [How to win at the NLP game (Part 1)](https://languagetech.substack.com/p/how-to-win-at-the-nlp-game-part-1)
@@ -10,9 +12,6 @@ Language Technology Substack https://languagetech.substack.com/
 [How to win at the NLP game (Part 2)](https://languagetech.substack.com/p/how-to-win-at-the-nlp-game-part-2)
 
 [Understanding what language tasks you are solving](https://languagetech.substack.com/p/understanding-what-language-tasks)
-
-[Overview of Stable Diffusion: High-quality and open-source image synthesis from text](https://languagetech.substack.com/p/overview-of-stable-diffusion-high)
-
 
 ## Interviews
 
