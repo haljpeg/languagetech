@@ -3,6 +3,8 @@ Language Technology Substack https://languagetech.substack.com/
 
 ## Posts
 
+[Stable Diffusion Extensions and Follow-Ups](https://languagetech.substack.com/p/stable-diffusion-extensions-and-follow)
+
 [Overview of Stable Diffusion: High-quality and open-source image synthesis from text](https://languagetech.substack.com/p/overview-of-stable-diffusion-high)
 
 [Parameter-efficient transfer learning for NLP](https://languagetech.substack.com/p/parameter-efficient-transfer-learning)
@@ -22,6 +24,8 @@ Language Technology Substack https://languagetech.substack.com/
 ## Guest posts
 
 [Quantitative Analytics and Data Science](https://languagetech.substack.com/p/quantitative-analytics-and-data-science)
+
+[Is it all Hype? The NLP Applications edition](https://languagetech.substack.com/p/is-it-all-hype-the-nlp-applications)
 
 ## Guest posts at other substacks
 [The Future of SEO: When Will Google Be Able to Detect AI Content?](https://bowtiedtetra.substack.com/p/when-will-google-be-able-to-detect)
